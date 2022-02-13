@@ -1,2 +1,2 @@
 # Algorithms
-Useful algorithm codes to be reused.
+Useful algorithm codes for revision and reuse.
